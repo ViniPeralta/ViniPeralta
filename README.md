@@ -13,7 +13,8 @@ I'm a fullstack developer from Brazil 🇧🇷
 <img src="https://github.com/user-attachments/assets/683f3321-89d3-400d-a1fd-2c4499583bb9" alt="Node JS" title="Node JS" width="32" height="32">
 <img src="https://github.com/user-attachments/assets/f8b85e54-aec5-4b21-b354-f10810b4c722" alt="Python" title="Python" width="32" height="32">
 <img src="https://github.com/user-attachments/assets/251a9b98-666d-4231-a864-397b870bb6e0" alt="React JS" title="React JS" width="32" height="32">
-
+<img src="https://github.com/user-attachments/assets/94efe730-0927-430e-bf4d-aa9c63e6f5b7" alt="Postgres" title="Postgres" width="32" height="32">
+<img src="https://github.com/user-attachments/assets/c9b39794-8724-4e28-b3c6-256409cd7d6c" alt="Cosmos" title="Cosmos" width="32" height="32">
 
 ## Check out some of my personal projects
 
