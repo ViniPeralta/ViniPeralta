@@ -22,10 +22,10 @@ I'm a fullstack developer from Brazil 🇧🇷
 
 ## Some of my stats
 
-[![ViniPeralta's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniPeralta&count_private=true&show_icons=true&theme=radical&hide=stars)](https://github.com/ViniPeralta/github-readme-stats)
+[![ViniPeralta's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniPeralta&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide=stars)](https://github.com/ViniPeralta/github-readme-stats)
 
-### Let's build something together!! 🤝🏼
-## Feel free to reach out to me
+## Let's build something together!! 🤝🏼
+### Feel free to reach out to me
 
 <a href="https://www.linkedin.com/in/vinicius-peralta/" target="_blank">
   <img src="https://github.com/user-attachments/assets/47d4bdcc-90cc-4f77-9621-bf0b7cae8e8e" alt="Linkedin" title="Linkedin" width="32" height="32">
