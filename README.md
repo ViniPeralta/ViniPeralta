@@ -9,11 +9,11 @@ I'm a fullstack developer from Brazil 🇧🇷
 
 ## Development Tools
 
-<img src="https://github.com/user-attachments/assets/8ea25326-31d4-4cbc-a544-34732f587f2b" alt="Java" title="Java" width="32" height="32">
-<img src="https://github.com/user-attachments/assets/683f3321-89d3-400d-a1fd-2c4499583bb9" alt="Node JS" title="Node JS" width="32" height="32">
-<img src="https://github.com/user-attachments/assets/f8b85e54-aec5-4b21-b354-f10810b4c722" alt="Python" title="Python" width="32" height="32">
-<img src="https://github.com/user-attachments/assets/251a9b98-666d-4231-a864-397b870bb6e0" alt="React JS" title="React JS" width="32" height="32">
-<img src="https://github.com/user-attachments/assets/94efe730-0927-430e-bf4d-aa9c63e6f5b7" alt="Postgres" title="Postgres" width="32" height="32">
+<img src="https://github.com/user-attachments/assets/8a832ebe-d85d-46d0-987a-db216cd8d3dc" alt="Java" title="Java" width="32" height="32">
+<img src="https://github.com/user-attachments/assets/f8c62d8f-c815-436b-a799-9d3adbe50daf" alt="Node JS" title="Node JS" width="32" height="32">
+<img src="https://github.com/user-attachments/assets/105bbeb1-852e-4c83-8e40-170bcf0583e9" alt="Python" title="Python" width="32" height="32">
+<img src="https://github.com/user-attachments/assets/f439da55-4589-4898-a35d-cb03be72efb8" alt="React JS" title="React JS" width="32" height="32">
+<img src="https://github.com/user-attachments/assets/badd5c30-a9d9-4173-9b16-ed8d96f46b07" alt="Postgres" title="Postgres" width="32" height="32">
 <img src="https://github.com/user-attachments/assets/c9b39794-8724-4e28-b3c6-256409cd7d6c" alt="Cosmos" title="Cosmos" width="32" height="32">
 
 ## Check out some of my personal projects
@@ -30,9 +30,9 @@ I'm a fullstack developer from Brazil 🇧🇷
 ### Feel free to reach out to me
 
 <a href="https://www.linkedin.com/in/vinicius-peralta/" target="_blank">
-  <img src="https://github.com/user-attachments/assets/47d4bdcc-90cc-4f77-9621-bf0b7cae8e8e" alt="Linkedin" title="Linkedin" width="32" height="32">
+  <img src="https://github.com/user-attachments/assets/9f712c8f-7e4f-4d55-8466-7fe64e931501" alt="Linkedin" title="Linkedin" width="32" height="32">
 </a>
 &nbsp;&nbsp;
 <a href="mailto:vinicius-peralta@hotmail.com" target="_blank">
-  <img src="https://github.com/user-attachments/assets/cf94efd2-83c8-4a64-b842-3a90f2dc04b8" alt="Email" title="Email" width="32" height="32">
+  <img src="https://github.com/user-attachments/assets/78131001-6300-4d17-bad6-4c9dbd2e4ca5" alt="Email" title="Email" width="32" height="32">
 </a>
