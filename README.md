@@ -9,7 +9,7 @@ I'm a fullstack developer from Brazil 🇧🇷
 
 ## Development Tools
 
-<img src="https://github.com/user-attachments/assets/8a832ebe-d85d-46d0-987a-db216cd8d3dc" alt="Java" title="Java" width="38" height="38">
+<img src="https://github.com/user-attachments/assets/1a6ea457-1098-4bc0-9e9d-bd1a59282b5b" alt="Java" title="Java" width="32" height="32">
 <img src="https://github.com/user-attachments/assets/f8c62d8f-c815-436b-a799-9d3adbe50daf" alt="Node JS" title="Node JS" width="32" height="32">
 <img src="https://github.com/user-attachments/assets/105bbeb1-852e-4c83-8e40-170bcf0583e9" alt="Python" title="Python" width="32" height="32">
 <img src="https://github.com/user-attachments/assets/f439da55-4589-4898-a35d-cb03be72efb8" alt="React JS" title="React JS" width="32" height="32">
