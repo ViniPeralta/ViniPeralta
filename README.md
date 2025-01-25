@@ -23,6 +23,7 @@ I'm a fullstack developer from Brazil 🇧🇷
 ## Some of my stats
 
 [![ViniPeralta's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniPeralta&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide=stars)](https://github.com/ViniPeralta/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniPeralta&layout=compact&theme=tokyonight)](https://github.com/ViniPeralta/github-readme-stats)
 
 ## Let's build something together!! 🤝🏼
 ### Feel free to reach out to me
