@@ -14,6 +14,7 @@ I'm a fullstack developer from Brazil 🇧🇷
 <img src="https://github.com/user-attachments/assets/f8b85e54-aec5-4b21-b354-f10810b4c722" alt="Python" title="Python" width="32" height="32">
 <img src="https://github.com/user-attachments/assets/251a9b98-666d-4231-a864-397b870bb6e0" alt="React JS" title="React JS" width="32" height="32">
 
+
 ## Check out some of my personal projects
 
 <a href="https://github.com/Curriculum-Vitae-AI" target="_blank">
@@ -23,7 +24,6 @@ I'm a fullstack developer from Brazil 🇧🇷
 ## Some of my stats
 
 [![ViniPeralta's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniPeralta&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide=stars)](https://github.com/ViniPeralta/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniPeralta&layout=compact&theme=tokyonight&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/ViniPeralta/github-readme-stats)
 
 ## Let's build something together!! 🤝🏼
 ### Feel free to reach out to me
