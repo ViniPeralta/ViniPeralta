@@ -2,8 +2,8 @@
 
 I'm a fullstack developer from Brazil 🇧🇷
 
-- My preference is on back-end development ♨️
 - Bachelor's degree in Information Systems 🎓
+- My preference is on back-end development ♨️
 - Allways exploring and learning more about web development, software architecture, clean code and cloud computing 📚
 - Currently working as a software engineer on big projects with microsservices architecture acting as FullStack using Java and React 👨🏼‍💻
 
