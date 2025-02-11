@@ -20,7 +20,7 @@ I'm a fullstack developer from Brazil 🇧🇷
 ## Check out some of my personal projects
 
 <a href="https://github.com/Peralta-CashFlow" target="_blank">
-  <img src="https://github.com/user-attachments/assets/bd82bb29-4980-458a-a5dd-4aebe34bb9ca" alt="CashFlow" title="CashFlow" width="40" height="40">
+  <img src="https://github.com/user-attachments/assets/bd82bb29-4980-458a-a5dd-4aebe34bb9ca" alt="CashFlow" title="CashFlow" width="60" height="60">
 </a>
 <a href="https://github.com/Curriculum-Vitae-AI" target="_blank">
   <img src="https://github.com/user-attachments/assets/87048e87-4262-4cff-9806-2d998b534d84" alt="CurriculumAI" title="CurriculumAI" width="32" height="32">
